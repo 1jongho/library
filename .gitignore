@@ -36,3 +36,10 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+/out/
+/target/
+*.class
+*.jar
+*.war
+.idea/
