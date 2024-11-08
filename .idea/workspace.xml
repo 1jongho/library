@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8bfbfff2-cd5c-4a55-b9a6-6ea499558c15" name="Changes" comment="환경설정, adminRL초안" />
+    <list default="true" id="8bfbfff2-cd5c-4a55-b9a6-6ea499558c15" name="Changes" comment="환경설정, adminRL초안">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +27,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="setting" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="setting" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,7 +82,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Tomcat 서버.Tomcat 9.0.94.executor": "Run",
-    "git-widget-placeholder": "setting",
+    "git-widget-placeholder": "setting2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/wonjongho/IdeaProjects/library",
     "node.js.detected.package.eslint": "true",
@@ -202,6 +217,8 @@
       <workItem from="1730165188554" duration="3000" />
       <workItem from="1730900022069" duration="4022000" />
       <workItem from="1731051315521" duration="734000" />
+      <workItem from="1731052504439" duration="86000" />
+      <workItem from="1731052765025" duration="155000" />
     </task>
     <task id="LOCAL-00001" summary="환경설정, adminRL초안">
       <option name="closed" value="true" />
@@ -267,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731051580791</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="환경설정, adminRL초안">
+      <option name="closed" value="true" />
+      <created>1731052543139</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731052543139</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
